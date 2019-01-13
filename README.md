@@ -8,7 +8,7 @@ This project is a Dockerfile to containerize [TShock](https://tshock.co/xf/index
 Get a debian/ubuntu based machine.  From the command line:
 ```
 sudo apt-get update
-sudo apt-get install docker.io
+sudo apt-get install docker
 ```
 
 Create a directory for your world file, configuration, and logs
